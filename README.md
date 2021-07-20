@@ -10,7 +10,7 @@ tool: Django
 ### 실행방법
 1. Clone the repository
 ```
-https://github.com/Minsik113/Project-DD_Community_Website.git
+git clone https://github.com/Minsik113/Project-DD_Community_Website.git
 ```
 2. Change your directory
 ```
