@@ -1,5 +1,12 @@
 # Project-DD_Community_Website 시즌2
 
+2021/06/15 ~ 2021/07/07
+
+title: 한국품질재단 Community Website 
+
+tool: Django
+
+----------------
 ### 실행방법
 1. Clone the repository
 ```
