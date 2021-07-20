@@ -60,14 +60,20 @@ python manage.py runserver
 ----------------
 ### Project-DD_Community_Website 시즌1 팀원 
 시즌1 대표깃 주소: https://github.com/haeinyy/webproject_communitysite/tree/last
+
 시즌1 회의록: https://utopian-record-165.notion.site/3b83e36fed404485963ce1a13ee9c54c
+
 ![image](https://user-images.githubusercontent.com/54586341/126363188-39a17f27-b58d-44ff-9ae4-b0af26e7df94.png)
+
+
 시즌1 개발일정
 ![image](https://user-images.githubusercontent.com/54586341/126364883-d23103be-55fe-48a1-90da-ff0d9e1ccff9.png)
 
 
 ### Project-DD_Community_Website 시즌2 팀원
+
 시즌2 대표깃 주소: 수정중
+
 회의 진행중
 
 
