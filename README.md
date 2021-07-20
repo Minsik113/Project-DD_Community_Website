@@ -28,9 +28,24 @@ python manage.py runserver
 ### 구조도
 ![image](https://user-images.githubusercontent.com/54586341/126361821-01e83f9a-3403-41d8-b663-ea06ef0f6729.png)
 ----------------
+### DB구조
+
+- 회원
+
+|이름|비밀번호|전화번호|
+|------|---|---|
+|관리자|12qw!Q|99999999999|
+|김소희|12qw!Q|11111111111|
+|손지혁|12qw!Q|22222222222|
+|이해인|12qw!Q|33333333333|
+|조민식|12qw!Q|44444444444|
+
+----------------
 ### Project-DD_Community_Website 시즌1 팀원 
 시즌1 대표깃 주소: https://github.com/haeinyy/webproject_communitysite/tree/last
 ![image](https://user-images.githubusercontent.com/54586341/126363188-39a17f27-b58d-44ff-9ae4-b0af26e7df94.png)
+시즌1 개발일정
+![image](https://user-images.githubusercontent.com/54586341/126364883-d23103be-55fe-48a1-90da-ff0d9e1ccff9.png)
 
 
 ### Project-DD_Community_Website 시즌2 팀원
