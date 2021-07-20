@@ -1,11 +1,28 @@
 # Project-DD_Community_Website 시즌2
 
 ### 실행방법
-1. 아나콘다 프롬프트 실행하여 MINI2/manage.py위치로 이동
+1. Clone the repository
+```
+https://github.com/Minsik113/Project-DD_Community_Website.git
+```
+2. Change your directory
+```
+cd Project-DD_Community_Website/MINI2
+```
+3. install django
+
+  - 가상환경에 설치
+```
+conda install django
+```
+  - base에 설치
+```
+pip install django
+```
+4. Run Server
 ```
 python manage.py runserver
 ```
-
 ----------------
 ### 프로젝트 계획 이유
 > 오프라인에서 해소되지 않는 소통으로 불편함을 느꼈습니다. 현재 교육생을 위한 온라인 플랫폼이 존재하지 않기에 만들었습니다.
