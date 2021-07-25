@@ -30,6 +30,13 @@ pip install django
 ```
 python manage.py runserver
 ```
+
+
+혹은
+
+
+링크클릭 : https://sonji.pythonanywhere.com/
+
 ----------------
 ### 프로젝트 계획 이유
 > 오프라인에서 해소되지 않는 소통으로 불편함을 느꼈습니다. 현재 교육생을 위한 온라인 플랫폼이 존재하지 않기에 만들었습니다.
